@@ -10,3 +10,7 @@
 
 - Create a .cmd file containing the aliases to be added (example file: *aliases.cmd*) as the path *"%USERPROFILE%\\.terminal\\aliases.cmd"*
 - Run the according .reg script (*aliases-command-autorun.reg*)
+
+### 3. Restore "New text document" option in context menu
+
+- Run the according .reg script (*restore-new-text-document-context-menu*)
